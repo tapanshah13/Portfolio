@@ -9,12 +9,13 @@ url: 'https://www.csulb.edu/institutional-research-analytics'
 ---
 
 Involvement & Activities:
+
 - Relations Director at Hispanic Students Business Association (HSBA),
 - Member at Society of Hispanic Professional Engineers (SHPE)
 
-
 Coursework:
-- Advance Analysis of Algorithms, Advance Topics of Programming Languages, Topics of Distributed Computing, Advance Software Engineering, Advance Artificial Intelligence, Natural Programming Lanugage
+
+- Advance Analysis of Algorithms, Advance Topics of Programming Languages, Topics of Distributed Computing, Advance Software Engineering, Advance Artificial Intelligence, Natural Programming Language
 
 <!-- - Spearheaded the system design and developed a web application for predicting kidney donor health, leveraging React.js, Node.js, Express.js MongoDB, TypeScript, and JavaScript.
 - Accomplished efficient data storage with AWS, establishing a central location for data organization and accessibility.

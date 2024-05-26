@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'C#', 'Python', 'RESTful API', 'AWS', 'Angular', 'Node.js'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'C#',
+    'Python',
+    'RESTful API',
+    'AWS',
+    'Angular',
+    'Node.js',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,27 +144,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Tapan, and I have a passion for creating things that thrive on the internet. 
-              My journey into web development commenced in 2017 when I began experimenting with custom web designs—remarkably, 
-              this foray into assembling web pages and managing small projects has offered me a wealth of knowledge in 
-              JavaScript, jQuery, HTML & CSS!
+              Hello! I'm Tapan, and I have a passion for creating things that thrive on the
+              internet. My journey into web development commenced in 2017 when I began experimenting
+              with custom web designs—remarkably, this foray into assembling web pages and managing
+              small projects has offered me a wealth of knowledge in JavaScript, jQuery, HTML & CSS!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.techwise.co.in/index.php">a start-up</a>, and{' '}
-              <a href="https://viitorcloud.com/">a mid-sized tech company</a>, and{' '}.
-              My main focus these days is building accessible, inclusive data-driven products and digital
-              experiences at <a href="https://www.csulb.edu/institutional-research-analytics">California State University Long Beach</a> 
+              <a href="https://viitorcloud.com/">a mid-sized tech company</a>, and . My main focus
+              these days is building accessible, inclusive data-driven products and digital
+              experiences at{' '}
+              <a href="https://www.csulb.edu/institutional-research-analytics">
+                California State University Long Beach
+              </a>
               for professors & students.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://kidneycalculator.github.io/">
-                launched a product
-              </a>{' '}
-              that predicts kidney donor health using React, Node, Express.js,  MongoDB, TypeScript &amp; JavaScript.
+              I also recently <a href="https://kidneycalculator.github.io/">launched a product</a>{' '}
+              that predicts kidney donor health behavior using React, Node, Express.js, MongoDB,
+              TypeScript &amp; JavaScript.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
